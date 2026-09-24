@@ -15,9 +15,10 @@ https://maximbytecamp.github.io/mongodb_theory_makarov/praktiki/01-katalog-tovar
 ## Что сдавать
 
 - [homework_03.md](homework_03.md) — заполненный отчёт;
-- шесть скриншотов в папке [screens/](screens/README.md);
+- обязательно шесть скриншотов в папке [screens/](screens/README.md);
 - ответы на три вопроса в конце отчёта.
 
+Скриншоты — обязательная часть сдачи: без них работа считается незавершённой.
 Сдача выполняется в ветке `hw-03` через Pull Request в свою `main`.
 
 ## Как запустить
