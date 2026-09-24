@@ -19,6 +19,6 @@ mongodb-work/
     ├── practice01/
     │   ├── check.py
     │   └── solution.cpp
-    └── screens/
+    └── screens
         
 ```
