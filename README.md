@@ -20,5 +20,5 @@ mongodb-work/
     │   ├── check.py
     │   └── solution.cpp
     └── screens/
-        └── README.md
+        
 ```
